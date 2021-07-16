@@ -114,7 +114,7 @@ namespace Tarea1_Piguave
 
             Console.WriteLine("Sueldo Final es:" + sueldofinal + "$");
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
 
 
